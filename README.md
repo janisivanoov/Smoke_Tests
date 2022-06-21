@@ -1,7 +1,6 @@
 Running smoke tests (Russian)
 ======
 
-
 Installing dependencies
 ------
 
